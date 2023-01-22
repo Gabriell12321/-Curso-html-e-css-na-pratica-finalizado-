@@ -1,0 +1,16 @@
+p 
+{
+ color: green; 
+ font-size: 30px;
+ 
+}
+body {
+    background-image: url('images.jpg');
+    background-position: 10px 30px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 1000px 1000px;
+}
+ul {
+    list-style-type: circle;
+}
